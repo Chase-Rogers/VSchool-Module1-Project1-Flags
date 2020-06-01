@@ -1,0 +1,239 @@
+
+.flex {
+    display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.flag {
+    border: 5px solid black;
+    width: 200px;
+    height: 100px;
+    margin: 20 20 20 20px;
+}
+/*France****************************************************/
+.france-left {
+    background-color: blue;
+    width: 66px;
+}
+
+.france-middle {
+    background-color: white;
+    width: 68px;
+}
+
+.france-right { 
+    background-color: red;
+    width: 66px;
+}
+
+/*Germany****************************************************/
+.germany-top {
+    background-color: black;
+    height: 33px;
+    width: 200px;
+}
+
+.germany-middle {
+    background-color: red;
+    height: 34px;
+    width: 200px;
+}
+
+.germany-bottom {
+    background-color: yellow;
+    height: 33px;
+    width: 200px;
+}
+
+/*Madagascar****************************************************/
+.green {
+    background-color: green;
+}
+
+.madagascar-top {
+    height: 50px;
+    width: 132px;
+}
+
+.madagascar-bottom {
+    height: 50px;
+    width: 132px;
+}
+
+.madagascar-left {
+    width: 68px;
+    height: 100px;
+}
+
+/*Switzerland****************************************************/
+.red {
+    background-color: red
+}
+
+.white {
+    background-color: white;
+}
+
+.Switzerland > div {
+    height: 20px;
+}
+
+.Switzerland-size1 {
+    width: 40px;
+}
+
+.Switzerland-size2 {
+    width: 80px;
+}
+
+.Switzerland-size3 {
+    width: 120px;
+}
+/*Sweden****************************************************/
+.blue {
+    background-color: blue
+}
+
+.yellow {
+    background-color:yellow;
+}
+
+.Sweden-middle {
+    height: 20px;
+}
+
+.Sweden-size1 {
+    width: 60px;
+    height: 40px;
+}
+
+.Sweden-size2 {
+    width: 20px;
+    height: 40px;
+}
+
+.Sweden-size3 {
+    width: 120px;
+    height: 40px;
+}
+
+/*Gambia****************************************************/
+.gambia-top {
+    height: 30px;
+    width: 200px;
+}
+
+.gambia-middle {
+    height: 24px;
+    width: 200px;
+}
+
+.gambia-bottom {
+    height: 30px;
+    width: 200px;
+}
+
+.gambia-spacer {
+    height: 8px;
+    width: 200px;
+}
+/*Tonga****************************************************/
+.cross {
+    height: 10px;
+    width: 66px;
+
+}
+
+.tonga-size1 {
+    width: 38px;
+    height: 10px;
+}
+
+.tonga-size2 {
+    width: 26px;
+    height: 10px;
+}
+
+.tonga-size3 {
+    width: 14px;
+    height: 10px;
+}
+
+.tonga-size4 {
+    width: 200px;
+    height: 50px;
+}
+
+/*Japan****************************************************/
+.circle {
+    height: 70px;
+    width: 70px;
+    margin: 18 65 18 65px;
+    border-radius: 50px;
+}
+
+/*Greece****************************************************/
+.greece-size1 {
+    width: 11px;
+    height: 11px;
+}
+
+.greece-size2 {
+    width: 22px;
+    height: 22px;
+}
+
+.greece-size3 {
+    width: 148px;
+    height: 11px;
+}
+.greece-size4 {
+    width: 200px;
+    height: 11px;
+}
+
+.inner {
+    width: 52px;
+}
+
+/*Niger****************************************************/
+.orange {
+    background-color: orange;
+}
+
+.niger-size1 {
+    width: 200px;
+    height: 33px;
+}
+
+.niger-size2 {
+    width: 200px;
+    height: 34px;
+}
+
+.circle-small {
+    height: 20px;
+    width: 20px;
+    margin: 7px 90 7px 90;
+    border-radius: 40px;
+}
+
+/*Maldives****************************************************/
+.cresent {
+    height: 35px;
+    width: 35px;
+    margin: 7 25 7 60px;
+    border-radius: 50px;
+    display: inline-block;
+    box-shadow: -8px 0px #ffffff;
+  }
+
+  .box-small {
+      width: 120px;
+      height: 50px;
+      margin: 25px 40px;
+      /* padding: 5 0px; */
+  }
